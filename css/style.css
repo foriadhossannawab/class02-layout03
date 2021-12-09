@@ -1,0 +1,125 @@
+body {
+    background-color: rgb(177, 238, 228);
+}
+
+header {
+    height: 150px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.head_t {
+    background-color: antiquewhite;
+    height: 50%;
+}
+
+.head_t_h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 123, 0);
+    font-size: 50px;
+}
+
+.nav {
+    background-color: rgb(113, 250, 95);
+    margin: auto;
+    width: 90%;
+    height: 50px;
+    border: 3px solid rgb(2, 7, 2);
+    color: rgb(255, 123, 0);
+}
+
+.section {
+    height: 800px;
+    overflow: hidden;
+}
+
+.file_section {
+    background-color: blue;
+    width: 65%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    color: aliceblue;
+}
+
+.article {
+    text-align: center;
+    background-color: rgb(150, 66, 6);
+    height: 22%;
+    border: 3px solid green;
+}
+
+.audio {
+    text-align: center;
+    background-color: rgb(34, 56, 11);
+    height: 22%;
+    border: 3px solid green;
+}
+
+.video {
+    text-align: center;
+    background-color: crimson;
+    height: 22%;
+    border: 3px solid green;
+}
+
+.image {
+    text-align: center;
+    background-color: rgb(134, 58, 30);
+    height: 22%;
+    border: 3px solid green;
+}
+
+.movie_section {
+    background-color: blueviolet;
+    width: 35%;
+    height: 100%;
+    float: right;
+    text-align: center;
+    color: aliceblue;
+}
+
+.hollywood {
+    text-align: center;
+    border: 3px solid green;
+    height: 30%;
+    background-color: rgb(5, 51, 92);
+}
+
+.bollywood {
+    text-align: center;
+    border: 3px solid green;
+    height: 30%;
+    background-color: rgb(65, 82, 11);
+}
+
+.series {
+    text-align: center;
+    border: 3px solid green;
+    height: 30%;
+    background-color: rgb(94, 11, 11);
+}
+
+footer {
+    background-color: darkgreen;
+    color: chartreuse;
+    text-align: center;
+    height: 150px;
+    overflow: hidden;
+}
+
+.f_left {
+    width: 75%;
+    background-color: rgb(221, 10, 10);
+    float: left;
+    height: 100%;
+    padding-top: 40px;
+}
+
+.f_right {
+    width: 25%;
+    background-color: rgb(88, 70, 9);
+    float: right;
+    height: 100%;
+    padding-top: 70px;
+}
